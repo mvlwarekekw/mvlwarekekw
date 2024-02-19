@@ -1,5 +1,18 @@
-### Hi there 👋
+### Heya, im malware aka friendlyware and happy to meet you!
+##### I spend a lot of my free time coding and gaming, which I both really enjoy doing. Im currently at highschool.
 
+
+#### A little more about me:
+```py
+about_me = {
+  "age": 14,
+  "pronouns": "he/him",
+  "languages": ["german", "english"],
+  "coding_langs": ["Python", "Java", "A bit of HTML/CSS"]
+}
+
+
+```
 <!--
 **mvlwarekekw/mvlwarekekw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

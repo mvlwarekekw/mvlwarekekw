@@ -2,20 +2,24 @@
 ##### I spend a lot of my free time coding and gaming, which I both really enjoy doing. Im 15 and currently attend highschool.
 
 
-#### A little more about me:
+# Introduction
 ```py
 about_me = {
+  "name": "andrin",
   "age": 15,
+  "nationality": "swiss",
+  "residence": "switzerland",
   "pronouns": "he/him",
   "languages": ["german", "english"],
   "coding_langs": ["Python", "Java", "HTML/CSS"],
-  "frameworks": ["VueJS", ""]
+  "frameworks": ["VueJS", "TailwindCSS"],
+  "currently_learning": ["Kotlin", "MC Plugin development"]
 }
 
 
 ```
 
-Currently working on:
-- Iskra (a minecraft mini game server)
+# Projects
+- Iskra (a minecraft mini game server) as development admin
 - Personal website
 

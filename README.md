@@ -5,7 +5,7 @@
 # Introduction
 ```py
 about_me = {
-  "name": "andrin",
+  "name": "mvlware",
   "age": 15,
   "nationality": "swiss",
   "residence": "switzerland",
@@ -23,3 +23,7 @@ about_me = {
 - Iskra (a minecraft mini game server) as development admin
 - Personal website
 
+# Stats
+[![Mvlwares's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvlwarekekw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvlwarekekw&layout=compact&theme=dark)

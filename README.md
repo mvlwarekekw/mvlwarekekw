@@ -1,4 +1,4 @@
-### Heya, im malware aka friendlyware and happy to meet you!
+### Heya, im malware aka friendlyware
 ##### I spend a lot of my free time coding and gaming, which I both really enjoy doing. Im 15 and currently attend highschool.
 
 

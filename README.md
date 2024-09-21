@@ -20,10 +20,12 @@ about_me = {
 ```
 
 # Projects
-- Iskra (a minecraft mini game server) as development admin
+- Iskra (a minecraft mini game server) as development admin => Private at the moment
 - Personal website (https://mvlware.xyz)
+  
+[![mvlware.xyz](https://github-readme-stats.vercel.app/api/pin/?username=mvlwarekekw&repo=mvlware.xyz&theme=github_dark)](https://github.com/mvlware/mvlware.xyz)
 
 # Stats
-[![Mvlwares's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvlwarekekw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mvlwares's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvlwarekekw&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvlwarekekw&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvlwarekekw&layout=compact&theme=github_dark)

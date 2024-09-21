@@ -21,7 +21,7 @@ about_me = {
 
 # Projects
 - Iskra (a minecraft mini game server) as development admin
-- Personal website
+- Personal website (https://mvlware.xyz)
 
 # Stats
 [![Mvlwares's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvlwarekekw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

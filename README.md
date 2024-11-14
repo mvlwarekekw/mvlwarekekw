@@ -1,4 +1,4 @@
-### Heya, im malware aka friendlyware
+### Heya, im malware
 ##### I spend a lot of my free time coding and gaming, which I both really enjoy doing. Im 15 and currently attend highschool.
 
 
@@ -13,7 +13,7 @@ about_me = {
   "languages": ["german", "english"],
   "coding_langs": ["Python", "Java", "HTML/CSS"],
   "frameworks": ["VueJS", "TailwindCSS"],
-  "currently_learning": ["Kotlin", "MC Plugin development"]
+  "currently_learning": ["Flask"]
 }
 
 

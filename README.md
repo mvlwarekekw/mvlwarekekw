@@ -20,13 +20,13 @@ about_me = {
 ```
 
 # Projects
-- Iskra (a minecraft mini game server) as development admin => Private at the moment
+- Contributing to [Syrup](https://github.com/Abdallah-Alwarawreh/Syrup)
 - Personal website (https://mvlware.xyz)
   
-[![mvlware.xyz](https://github-readme-stats.vercel.app/api/pin/?username=mvlwarekekw&repo=mvlware.xyz&theme=github_dark)](https://github.com/mvlwarekekw/mvlware.xyz)
+<!--[![mvlware.xyz](https://github-readme-stats.vercel.app/api/pin/?username=mvlwarekekw&repo=mvlware.xyz&theme=github_dark)](https://github.com/mvlwarekekw/mvlware.xyz)-->
 
 # Stats
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [![Mvlwares's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvlwarekekw&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 

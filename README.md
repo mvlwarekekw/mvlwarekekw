@@ -26,6 +26,8 @@ about_me = {
 [![mvlware.xyz](https://github-readme-stats.vercel.app/api/pin/?username=mvlwarekekw&repo=mvlware.xyz&theme=github_dark)](https://github.com/mvlwarekekw/mvlware.xyz)
 
 # Stats
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 [![Mvlwares's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvlwarekekw&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvlwarekekw&layout=compact&theme=github_dark)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvlwarekekw&layout=compact&theme=github_dark)-->

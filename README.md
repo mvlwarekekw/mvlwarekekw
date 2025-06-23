@@ -1,33 +1,29 @@
-### Heya, im malware
-I spend a lot of my free time coding and doing OSINT.
+<h1 style="text-align: center;">hey, Im mvlware </h1>
 
+He/Him - ![](https://komarev.com/ghpvc/?username=mvlwarekekw)
 
-# Introduction
-```py
-about_me = {
-  "name": "mvlware",
-  "age": 16,
-  "nationality": "swiss",
-  "residence": "switzerland",
-  "pronouns": "he/him",
-  "languages": ["german", "english"],
-  "coding_langs": ["Python", "TypeScript", "HTML/CSS"],
-  "frameworks": ["VueJS", "FastAPI", "React"],
-  "currently_learning": ["Algoritms"]
-}
+(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧
 
+<hr>
 
-```
+- I specialize in <b>OSINT</b> and <b>programming</b> 💻
+- Competing with my team CTF Team <b>SE4L</b> 🦭
+- Currently learning <b>computer science</b>, such as <b>algorithms</b> and <b>complex data types</b> ⚙️
 
-# Projects
-- Working on SE4L
-- Working on some OSINT tools
-  
-<!--[![mvlware.xyz](https://github-readme-stats.vercel.app/api/pin/?username=mvlwarekekw&repo=mvlware.xyz&theme=github_dark)](https://github.com/mvlwarekekw/mvlware.xyz)-->
+<hr>
 
-# Stats
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<h3>Technologies & Languages:</h3>
 
-[![Mvlwares's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvlwarekekw&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvlwarekekw&layout=compact&theme=github_dark)-->
+<hr>
+
+<i>#OSINT4Good #SE4L</i>

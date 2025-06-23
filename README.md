@@ -1,27 +1,27 @@
 ### Heya, im malware
-##### I spend a lot of my free time coding and gaming, which I both really enjoy doing. Im 15 and currently attend highschool.
+I spend a lot of my free time coding and doing OSINT.
 
 
 # Introduction
 ```py
 about_me = {
   "name": "mvlware",
-  "age": 15,
+  "age": 16,
   "nationality": "swiss",
   "residence": "switzerland",
   "pronouns": "he/him",
   "languages": ["german", "english"],
-  "coding_langs": ["Python", "Java", "HTML/CSS"],
-  "frameworks": ["VueJS", "TailwindCSS"],
-  "currently_learning": ["Flask"]
+  "coding_langs": ["Python", "TypeScript", "HTML/CSS"],
+  "frameworks": ["VueJS", "FastAPI", "React"],
+  "currently_learning": ["Algoritms"]
 }
 
 
 ```
 
 # Projects
-- Contributing to [Syrup](https://github.com/Abdallah-Alwarawreh/Syrup)
-- Personal website (https://mvlware.xyz)
+- Working on SE4L
+- Working on some OSINT tools
   
 <!--[![mvlware.xyz](https://github-readme-stats.vercel.app/api/pin/?username=mvlwarekekw&repo=mvlware.xyz&theme=github_dark)](https://github.com/mvlwarekekw/mvlware.xyz)-->
 
